@@ -1,0 +1,13 @@
+C:\Users\pavli\Desktop\PTMK_testovoe\PTMK_testovoe\Src\PTMK_testovoe.Application\bin\Debug\net8.0\PTMK_testovoe.Application.deps.json
+C:\Users\pavli\Desktop\PTMK_testovoe\PTMK_testovoe\Src\PTMK_testovoe.Application\bin\Debug\net8.0\PTMK_testovoe.Application.dll
+C:\Users\pavli\Desktop\PTMK_testovoe\PTMK_testovoe\Src\PTMK_testovoe.Application\bin\Debug\net8.0\PTMK_testovoe.Application.pdb
+C:\Users\pavli\Desktop\PTMK_testovoe\PTMK_testovoe\Src\PTMK_testovoe.Application\obj\Debug\net8.0\PTMK_testovoe.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavli\Desktop\PTMK_testovoe\PTMK_testovoe\Src\PTMK_testovoe.Application\obj\Debug\net8.0\PTMK_testovoe.Application.AssemblyInfoInputs.cache
+C:\Users\pavli\Desktop\PTMK_testovoe\PTMK_testovoe\Src\PTMK_testovoe.Application\obj\Debug\net8.0\PTMK_testovoe.Application.AssemblyInfo.cs
+C:\Users\pavli\Desktop\PTMK_testovoe\PTMK_testovoe\Src\PTMK_testovoe.Application\obj\Debug\net8.0\PTMK_testovoe.Application.csproj.CoreCompileInputs.cache
+C:\Users\pavli\Desktop\PTMK_testovoe\PTMK_testovoe\Src\PTMK_testovoe.Application\obj\Debug\net8.0\PTMK_testovoe.Application.sourcelink.json
+C:\Users\pavli\Desktop\PTMK_testovoe\PTMK_testovoe\Src\PTMK_testovoe.Application\obj\Debug\net8.0\PTMK_testovoe.Application.dll
+C:\Users\pavli\Desktop\PTMK_testovoe\PTMK_testovoe\Src\PTMK_testovoe.Application\obj\Debug\net8.0\refint\PTMK_testovoe.Application.dll
+C:\Users\pavli\Desktop\PTMK_testovoe\PTMK_testovoe\Src\PTMK_testovoe.Application\obj\Debug\net8.0\PTMK_testovoe.Application.pdb
+C:\Users\pavli\Desktop\PTMK_testovoe\PTMK_testovoe\Src\PTMK_testovoe.Application\obj\Debug\net8.0\ref\PTMK_testovoe.Application.dll
+C:\Users\pavli\Desktop\PTMK_testovoe\PTMK_testovoe\Src\PTMK_testovoe.Application\obj\Debug\net8.0\PTMK_testovoe.Application.csproj.AssemblyReference.cache

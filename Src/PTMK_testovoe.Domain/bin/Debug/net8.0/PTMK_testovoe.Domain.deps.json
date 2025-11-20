@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PTMK_testovoe.Domain/1.0.0": {
+        "runtime": {
+          "PTMK_testovoe.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PTMK_testovoe.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
