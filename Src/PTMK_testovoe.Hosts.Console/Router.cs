@@ -1,12 +1,11 @@
-﻿using MediatR;
+﻿using FluentValidation;
+using MediatR;
 using Microsoft.Extensions.Logging;
 using PTMK_testovoe.Application.Services.DbInit;
 using PTMK_testovoe.Application.Services.Employee.Commands.CreateEmployee;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using PTMK_testovoe.Application.Services.Employee.Queries.GetEmployee;
+using System.Reflection;
+
 
 namespace PTMK_testovoe.Hosts.Console;
 
@@ -22,19 +21,67 @@ public class Router
     }
 
     public async Task Migrate()
-        => await _mediator.Send(new MigrateDbCommand());
+    {
+        try
+        {
+            bool success = await _mediator.Send(new MigrateDbCommand());
+            if (success)
+            {
+                System.Console.WriteLine("Схема базы данных готова");
+            }
+        }
+        catch (Exception ex)
+        {
+            System.Console.WriteLine("Возникли ошибки");
+            System.Console.WriteLine(ex.Message);
+        } 
+    }
 
     public async Task CreateEmployee(string fullName, string birthDate, string gender)
     {
-        _logger.LogInformation("Начало создания пользователя");
-
-
-        await _mediator.Send(new CreateEmployeeCommand()
+        try
         {
-            FullName = fullName,
-            BirthDate = birthDate,
-            Gender = gender
-        });
+            bool success = await _mediator.Send(new CreateEmployeeCommand()
+            {
+                FullName = fullName,
+                BirthDate = birthDate,
+                Gender = gender
+            });
+
+            if (success)
+            {
+                System.Console.WriteLine("Пользователь успешно создан");
+            }
+        }
+        catch (ValidationException ex)
+        {
+            System.Console.WriteLine("Возникли ошибки валидации");
+            foreach (var item in ex.Errors)
+            {
+                System.Console.WriteLine($"{item.ErrorMessage}");
+            }
+        }
+        catch (Exception ex)
+        {
+            System.Console.WriteLine(ex.Message);
+        }
+    }
+
+    public async Task GetEmployee()
+    {
+        try
+        {
+            List<GetEmployeeResponce> employee = await _mediator.Send(new GetEmployeeQuery());
+            foreach (var responce in employee)
+            {
+                System.Console.WriteLine($"ФИО: {responce.FullName}, Дата рождения: {responce.BirthDate}, Пол: {responce.Gender}, Количество полных лет: {responce.FullYears}");
+            }
+        }
+        catch (Exception ex)
+        {
+            System.Console.WriteLine(ex.Message);
+        }
 
     }
+
 }

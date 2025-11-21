@@ -62,7 +62,9 @@ public static class Program
             ParseResult.GetValue(gender)
             ));
 
-
+        Command GetEmployeeCommand = new("3");
+        rootCommand.Add(GetEmployeeCommand);
+        GetEmployeeCommand.SetAction(ParseResult => router.GetEmployee());
 
 
         return rootCommand.Parse(args).Invoke();
