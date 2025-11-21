@@ -140,3 +140,4 @@ C:\Users\pavli\Desktop\PTMK_testovoe\PTMK_testovoe\Src\PTMK_testovoe.Hosts.Conso
 C:\Users\pavli\Desktop\PTMK_testovoe\PTMK_testovoe\Src\PTMK_testovoe.Hosts.Console\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\pavli\Desktop\PTMK_testovoe\PTMK_testovoe\Src\PTMK_testovoe.Hosts.Console\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\pavli\Desktop\PTMK_testovoe\PTMK_testovoe\Src\PTMK_testovoe.Hosts.Console\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pavli\Desktop\PTMK_testovoe\PTMK_testovoe\Src\PTMK_testovoe.Hosts.Console\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

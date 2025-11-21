@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "lpGk7CKlFgk=",
+  "dgSpecHash": "8XSnBcg3zLw=",
   "success": true,
   "projectFilePath": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Hosts.Console\\PTMK_testovoe.Hosts.Console.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pavli\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\pavli\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
+    "C:\\Users\\pavli\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.0.0\\fluentvalidation.dependencyinjectionextensions.12.0.0.nupkg.sha512",
     "C:\\Users\\pavli\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\pavli\\.nuget\\packages\\mediatr\\13.1.0\\mediatr.13.1.0.nupkg.sha512",
     "C:\\Users\\pavli\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
