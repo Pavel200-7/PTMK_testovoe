@@ -5,7 +5,7 @@ using PTMK_testovoe.Infrastructure.DataAccess.Repositories;
 
 namespace PTMK_testovoe.Infrastructure.ComponentRegistrar.Registrar;
 
-public static class ComponentRegistgar
+public static class ComponentRegistrar
 {
     public static IServiceCollection RegistrarComponents(this IServiceCollection services)
     {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PTMK_testovoe.Hosts.Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f536062adadc43278cdff070111c54a89480814")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+121190e93ea59185fff99b4ca3db98b67deecbcb")]
 [assembly: System.Reflection.AssemblyProductAttribute("PTMK_testovoe.Hosts.Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PTMK_testovoe.Hosts.Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

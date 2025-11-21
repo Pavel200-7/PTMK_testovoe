@@ -1,21 +1,21 @@
-﻿using Microsoft.Extensions.Logging;
+﻿using MediatR;
+using Microsoft.Extensions.Logging;
 using PTMK_testovoe.Application.Services.DbInitService.Repository;
-
 
 namespace PTMK_testovoe.Application.Services.DbInitService;
 
-public class DbIntitService : IDbIntitService
+public class DbIntitHandler : IRequestHandler<MigrateDbCommand, bool>
 {
-    private ILogger<DbIntitService> _logger;
+    private ILogger<DbIntitHandler> _logger;
     private IDbIntitRepository _repository;
 
-    public DbIntitService(ILogger<DbIntitService> logger, IDbIntitRepository repository)
+    public DbIntitHandler(ILogger<DbIntitHandler> logger, IDbIntitRepository repository)
     {
         _logger = logger;
         _repository = repository;
     }
 
-    public async Task<bool> Migrate()
+    public async Task<bool> Handle(MigrateDbCommand request, CancellationToken cancellationToken)
     {
         bool result = await _repository.Migrate();
         return result;

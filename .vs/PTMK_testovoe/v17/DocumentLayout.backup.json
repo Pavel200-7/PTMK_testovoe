@@ -7,32 +7,52 @@
       "RelativeMoniker": "D:0:0:{A8B644BB-29BF-43B0-95B6-1421B7340F44}|Src\\PTMK_testovoe.Hosts.Console\\PTMK_testovoe.Hosts.Console.csproj|solutionrelative:src\\ptmk_testovoe.hosts.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8B644BB-29BF-43B0-95B6-1421B7340F44}|Src\\PTMK_testovoe.Hosts.Console\\PTMK_testovoe.Hosts.Console.csproj|c:\\users\\pavli\\desktop\\ptmk_testovoe\\ptmk_testovoe\\src\\ptmk_testovoe.hosts.console\\ptmk_testovoe.hosts.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A8B644BB-29BF-43B0-95B6-1421B7340F44}|Src\\PTMK_testovoe.Hosts.Console\\PTMK_testovoe.Hosts.Console.csproj|solutionrelative:src\\ptmk_testovoe.hosts.console\\ptmk_testovoe.hosts.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{708A87D6-DAD5-4E16-972F-97C66511DD03}|Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\PTMK_testovoe.Infrastructure.ComponentRegistrar.csproj|c:\\users\\pavli\\desktop\\ptmk_testovoe\\ptmk_testovoe\\src\\ptmk_testovoe.infrastructure.componentregistrar\\registrar\\mediatrregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{708A87D6-DAD5-4E16-972F-97C66511DD03}|Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\PTMK_testovoe.Infrastructure.ComponentRegistrar.csproj|solutionrelative:src\\ptmk_testovoe.infrastructure.componentregistrar\\registrar\\mediatrregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49DD1A28-E4CB-4690-9E0E-3FAEF6415DF3}|Src\\PTMK_testovoe.Application\\PTMK_testovoe.Application.csproj|c:\\users\\pavli\\desktop\\ptmk_testovoe\\ptmk_testovoe\\src\\ptmk_testovoe.application\\services\\dbinitservice\\dbintitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49DD1A28-E4CB-4690-9E0E-3FAEF6415DF3}|Src\\PTMK_testovoe.Application\\PTMK_testovoe.Application.csproj|solutionrelative:src\\ptmk_testovoe.application\\services\\dbinitservice\\dbintitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49DD1A28-E4CB-4690-9E0E-3FAEF6415DF3}|Src\\PTMK_testovoe.Application\\PTMK_testovoe.Application.csproj|c:\\users\\pavli\\desktop\\ptmk_testovoe\\ptmk_testovoe\\src\\ptmk_testovoe.application\\services\\dbinitservice\\repository\\idbintitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49DD1A28-E4CB-4690-9E0E-3FAEF6415DF3}|Src\\PTMK_testovoe.Application\\PTMK_testovoe.Application.csproj|solutionrelative:src\\ptmk_testovoe.application\\services\\dbinitservice\\repository\\idbintitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49DD1A28-E4CB-4690-9E0E-3FAEF6415DF3}|Src\\PTMK_testovoe.Application\\PTMK_testovoe.Application.csproj|c:\\users\\pavli\\desktop\\ptmk_testovoe\\ptmk_testovoe\\src\\ptmk_testovoe.application\\ptmk_testovoe.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49DD1A28-E4CB-4690-9E0E-3FAEF6415DF3}|Src\\PTMK_testovoe.Application\\PTMK_testovoe.Application.csproj|solutionrelative:src\\ptmk_testovoe.application\\ptmk_testovoe.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{708A87D6-DAD5-4E16-972F-97C66511DD03}|Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\PTMK_testovoe.Infrastructure.ComponentRegistrar.csproj|c:\\users\\pavli\\desktop\\ptmk_testovoe\\ptmk_testovoe\\src\\ptmk_testovoe.infrastructure.componentregistrar\\ptmk_testovoe.infrastructure.componentregistrar.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{708A87D6-DAD5-4E16-972F-97C66511DD03}|Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\PTMK_testovoe.Infrastructure.ComponentRegistrar.csproj|solutionrelative:src\\ptmk_testovoe.infrastructure.componentregistrar\\ptmk_testovoe.infrastructure.componentregistrar.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B644BB-29BF-43B0-95B6-1421B7340F44}|Src\\PTMK_testovoe.Hosts.Console\\PTMK_testovoe.Hosts.Console.csproj|c:\\users\\pavli\\desktop\\ptmk_testovoe\\ptmk_testovoe\\src\\ptmk_testovoe.hosts.console\\ptmk_testovoe.hosts.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8B644BB-29BF-43B0-95B6-1421B7340F44}|Src\\PTMK_testovoe.Hosts.Console\\PTMK_testovoe.Hosts.Console.csproj|solutionrelative:src\\ptmk_testovoe.hosts.console\\ptmk_testovoe.hosts.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B644BB-29BF-43B0-95B6-1421B7340F44}|Src\\PTMK_testovoe.Hosts.Console\\PTMK_testovoe.Hosts.Console.csproj|c:\\users\\pavli\\desktop\\ptmk_testovoe\\ptmk_testovoe\\src\\ptmk_testovoe.hosts.console\\router.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B644BB-29BF-43B0-95B6-1421B7340F44}|Src\\PTMK_testovoe.Hosts.Console\\PTMK_testovoe.Hosts.Console.csproj|solutionrelative:src\\ptmk_testovoe.hosts.console\\router.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{708A87D6-DAD5-4E16-972F-97C66511DD03}|Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\PTMK_testovoe.Infrastructure.ComponentRegistrar.csproj|c:\\users\\pavli\\desktop\\ptmk_testovoe\\ptmk_testovoe\\src\\ptmk_testovoe.infrastructure.componentregistrar\\registrar\\dbcontextregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{708A87D6-DAD5-4E16-972F-97C66511DD03}|Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\PTMK_testovoe.Infrastructure.ComponentRegistrar.csproj|solutionrelative:src\\ptmk_testovoe.infrastructure.componentregistrar\\registrar\\dbcontextregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{708A87D6-DAD5-4E16-972F-97C66511DD03}|Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\PTMK_testovoe.Infrastructure.ComponentRegistrar.csproj|c:\\users\\pavli\\desktop\\ptmk_testovoe\\ptmk_testovoe\\src\\ptmk_testovoe.infrastructure.componentregistrar\\registrar\\loggingregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{708A87D6-DAD5-4E16-972F-97C66511DD03}|Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\PTMK_testovoe.Infrastructure.ComponentRegistrar.csproj|solutionrelative:src\\ptmk_testovoe.infrastructure.componentregistrar\\registrar\\loggingregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49DD1A28-E4CB-4690-9E0E-3FAEF6415DF3}|Src\\PTMK_testovoe.Application\\PTMK_testovoe.Application.csproj|c:\\users\\pavli\\desktop\\ptmk_testovoe\\ptmk_testovoe\\src\\ptmk_testovoe.application\\services\\dbinitservice\\idbintitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49DD1A28-E4CB-4690-9E0E-3FAEF6415DF3}|Src\\PTMK_testovoe.Application\\PTMK_testovoe.Application.csproj|solutionrelative:src\\ptmk_testovoe.application\\services\\dbinitservice\\idbintitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{708A87D6-DAD5-4E16-972F-97C66511DD03}|Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\PTMK_testovoe.Infrastructure.ComponentRegistrar.csproj|c:\\users\\pavli\\desktop\\ptmk_testovoe\\ptmk_testovoe\\src\\ptmk_testovoe.infrastructure.componentregistrar\\registrar\\componentregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{708A87D6-DAD5-4E16-972F-97C66511DD03}|Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\PTMK_testovoe.Infrastructure.ComponentRegistrar.csproj|solutionrelative:src\\ptmk_testovoe.infrastructure.componentregistrar\\registrar\\componentregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DD1A28-E4CB-4690-9E0E-3FAEF6415DF3}|Src\\PTMK_testovoe.Application\\PTMK_testovoe.Application.csproj|c:\\users\\pavli\\desktop\\ptmk_testovoe\\ptmk_testovoe\\src\\ptmk_testovoe.application\\services\\dbinitservice\\migratedbcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DD1A28-E4CB-4690-9E0E-3FAEF6415DF3}|Src\\PTMK_testovoe.Application\\PTMK_testovoe.Application.csproj|solutionrelative:src\\ptmk_testovoe.application\\services\\dbinitservice\\migratedbcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DD1A28-E4CB-4690-9E0E-3FAEF6415DF3}|Src\\PTMK_testovoe.Application\\PTMK_testovoe.Application.csproj|c:\\users\\pavli\\desktop\\ptmk_testovoe\\ptmk_testovoe\\src\\ptmk_testovoe.application\\services\\dbinitservice\\repository\\idbintitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DD1A28-E4CB-4690-9E0E-3FAEF6415DF3}|Src\\PTMK_testovoe.Application\\PTMK_testovoe.Application.csproj|solutionrelative:src\\ptmk_testovoe.application\\services\\dbinitservice\\repository\\idbintitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F9B0875-CE5A-47F2-8B91-0DF538917FE2}|Src\\PTMK_testovoe.Infrastructure.DataAccess\\PTMK_testovoe.Infrastructure.DataAccess.csproj|c:\\users\\pavli\\desktop\\ptmk_testovoe\\ptmk_testovoe\\src\\ptmk_testovoe.infrastructure.dataaccess\\repositories\\dbintitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F9B0875-CE5A-47F2-8B91-0DF538917FE2}|Src\\PTMK_testovoe.Infrastructure.DataAccess\\PTMK_testovoe.Infrastructure.DataAccess.csproj|solutionrelative:src\\ptmk_testovoe.infrastructure.dataaccess\\repositories\\dbintitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{708A87D6-DAD5-4E16-972F-97C66511DD03}|Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\PTMK_testovoe.Infrastructure.ComponentRegistrar.csproj|c:\\users\\pavli\\desktop\\ptmk_testovoe\\ptmk_testovoe\\src\\ptmk_testovoe.infrastructure.componentregistrar\\registrar\\componentregistgar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{708A87D6-DAD5-4E16-972F-97C66511DD03}|Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\PTMK_testovoe.Infrastructure.ComponentRegistrar.csproj|solutionrelative:src\\ptmk_testovoe.infrastructure.componentregistrar\\registrar\\componentregistgar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F9B0875-CE5A-47F2-8B91-0DF538917FE2}|Src\\PTMK_testovoe.Infrastructure.DataAccess\\PTMK_testovoe.Infrastructure.DataAccess.csproj|c:\\users\\pavli\\desktop\\ptmk_testovoe\\ptmk_testovoe\\src\\ptmk_testovoe.infrastructure.dataaccess\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{708A87D6-DAD5-4E16-972F-97C66511DD03}|Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\PTMK_testovoe.Infrastructure.ComponentRegistrar.csproj|c:\\users\\pavli\\desktop\\ptmk_testovoe\\ptmk_testovoe\\src\\ptmk_testovoe.infrastructure.componentregistrar\\registrar\\usermapperregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{708A87D6-DAD5-4E16-972F-97C66511DD03}|Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\PTMK_testovoe.Infrastructure.ComponentRegistrar.csproj|solutionrelative:src\\ptmk_testovoe.infrastructure.componentregistrar\\registrar\\usermapperregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{708A87D6-DAD5-4E16-972F-97C66511DD03}|Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\PTMK_testovoe.Infrastructure.ComponentRegistrar.csproj|c:\\users\\pavli\\desktop\\ptmk_testovoe\\ptmk_testovoe\\src\\ptmk_testovoe.infrastructure.componentregistrar\\registrar\\dbcontextregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{708A87D6-DAD5-4E16-972F-97C66511DD03}|Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\PTMK_testovoe.Infrastructure.ComponentRegistrar.csproj|solutionrelative:src\\ptmk_testovoe.infrastructure.componentregistrar\\registrar\\dbcontextregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52D1F2AD-93EA-45C4-A241-B84B44F2B01E}|Src\\PTMK_testovoe.Domain\\PTMK_testovoe.Domain.csproj|c:\\users\\pavli\\desktop\\ptmk_testovoe\\ptmk_testovoe\\src\\ptmk_testovoe.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,16 +91,8 @@
       "RelativeMoniker": "D:0:0:{1F9B0875-CE5A-47F2-8B91-0DF538917FE2}|Src\\PTMK_testovoe.Infrastructure.DataAccess\\PTMK_testovoe.Infrastructure.DataAccess.csproj|solutionrelative:src\\ptmk_testovoe.infrastructure.dataaccess\\repositorybase\\baseunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{708A87D6-DAD5-4E16-972F-97C66511DD03}|Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\PTMK_testovoe.Infrastructure.ComponentRegistrar.csproj|c:\\users\\pavli\\desktop\\ptmk_testovoe\\ptmk_testovoe\\src\\ptmk_testovoe.infrastructure.componentregistrar\\ptmk_testovoe.infrastructure.componentregistrar.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{708A87D6-DAD5-4E16-972F-97C66511DD03}|Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\PTMK_testovoe.Infrastructure.ComponentRegistrar.csproj|solutionrelative:src\\ptmk_testovoe.infrastructure.componentregistrar\\ptmk_testovoe.infrastructure.componentregistrar.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1F9B0875-CE5A-47F2-8B91-0DF538917FE2}|Src\\PTMK_testovoe.Infrastructure.DataAccess\\PTMK_testovoe.Infrastructure.DataAccess.csproj|c:\\users\\pavli\\desktop\\ptmk_testovoe\\ptmk_testovoe\\src\\ptmk_testovoe.infrastructure.dataaccess\\ptmk_testovoe.infrastructure.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1F9B0875-CE5A-47F2-8B91-0DF538917FE2}|Src\\PTMK_testovoe.Infrastructure.DataAccess\\PTMK_testovoe.Infrastructure.DataAccess.csproj|solutionrelative:src\\ptmk_testovoe.infrastructure.dataaccess\\ptmk_testovoe.infrastructure.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49DD1A28-E4CB-4690-9E0E-3FAEF6415DF3}|Src\\PTMK_testovoe.Application\\PTMK_testovoe.Application.csproj|c:\\users\\pavli\\desktop\\ptmk_testovoe\\ptmk_testovoe\\src\\ptmk_testovoe.application\\ptmk_testovoe.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{49DD1A28-E4CB-4690-9E0E-3FAEF6415DF3}|Src\\PTMK_testovoe.Application\\PTMK_testovoe.Application.csproj|solutionrelative:src\\ptmk_testovoe.application\\ptmk_testovoe.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,19 +102,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoggingRegistrar.cs",
-              "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\LoggingRegistrar.cs",
-              "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\LoggingRegistrar.cs",
-              "ToolTip": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\LoggingRegistrar.cs",
-              "RelativeToolTip": "Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\LoggingRegistrar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MediatRRegistrar.cs",
+              "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\MediatRRegistrar.cs",
+              "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\MediatRRegistrar.cs",
+              "ToolTip": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\MediatRRegistrar.cs",
+              "RelativeToolTip": "Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\MediatRRegistrar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T09:04:15.484Z",
+              "WhenOpened": "2025-11-21T07:38:31.107Z",
               "EditorCaption": ""
             },
             {
@@ -117,22 +137,35 @@
               "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Hosts.Console\\Program.cs",
               "ToolTip": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Hosts.Console\\Program.cs",
               "RelativeToolTip": "Src\\PTMK_testovoe.Hosts.Console\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T07:21:14.024Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PTMK_testovoe.Infrastructure.ComponentRegistrar.csproj",
+              "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\PTMK_testovoe.Infrastructure.ComponentRegistrar.csproj",
+              "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\PTMK_testovoe.Infrastructure.ComponentRegistrar.csproj",
+              "ToolTip": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\PTMK_testovoe.Infrastructure.ComponentRegistrar.csproj",
+              "RelativeToolTip": "Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\PTMK_testovoe.Infrastructure.ComponentRegistrar.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-20T07:46:45.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IDbIntitRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Application\\Services\\DbInitService\\Repository\\IDbIntitRepository.cs",
-              "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Application\\Services\\DbInitService\\Repository\\IDbIntitRepository.cs",
-              "ToolTip": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Application\\Services\\DbInitService\\Repository\\IDbIntitRepository.cs",
-              "RelativeToolTip": "Src\\PTMK_testovoe.Application\\Services\\DbInitService\\Repository\\IDbIntitRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T07:40:16.108Z",
+              "Title": "PTMK_testovoe.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Application\\PTMK_testovoe.Application.csproj",
+              "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Application\\PTMK_testovoe.Application.csproj",
+              "ToolTip": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Application\\PTMK_testovoe.Application.csproj",
+              "RelativeToolTip": "Src\\PTMK_testovoe.Application\\PTMK_testovoe.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-20T07:52:06.787Z",
               "EditorCaption": ""
             },
             {
@@ -143,15 +176,15 @@
               "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Application\\Services\\DbInitService\\DbIntitService.cs",
               "ToolTip": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Application\\Services\\DbInitService\\DbIntitService.cs",
               "RelativeToolTip": "Src\\PTMK_testovoe.Application\\Services\\DbInitService\\DbIntitService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T07:37:43.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PTMK_testovoe.Hosts.Console",
+              "DocumentIndex": 5,
+              "Title": "PTMK_testovoe.Hosts.Console.csproj",
               "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Hosts.Console\\PTMK_testovoe.Hosts.Console.csproj",
               "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Hosts.Console\\PTMK_testovoe.Hosts.Console.csproj",
               "ToolTip": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Hosts.Console\\PTMK_testovoe.Hosts.Console.csproj",
@@ -164,6 +197,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Router.cs",
+              "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Hosts.Console\\Router.cs",
+              "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Hosts.Console\\Router.cs",
+              "ToolTip": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Hosts.Console\\Router.cs",
+              "RelativeToolTip": "Src\\PTMK_testovoe.Hosts.Console\\Router.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:41:38.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbContextRegistrar.cs",
+              "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\DbContextRegistrar.cs",
+              "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\DbContextRegistrar.cs",
+              "ToolTip": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\DbContextRegistrar.cs",
+              "RelativeToolTip": "Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\DbContextRegistrar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:47:58.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoggingRegistrar.cs",
+              "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\LoggingRegistrar.cs",
+              "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\LoggingRegistrar.cs",
+              "ToolTip": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\LoggingRegistrar.cs",
+              "RelativeToolTip": "Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\LoggingRegistrar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:04:15.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ComponentRegistrar.cs",
+              "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\ComponentRegistrar.cs",
+              "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\ComponentRegistrar.cs",
+              "ToolTip": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\ComponentRegistrar.cs",
+              "RelativeToolTip": "Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\ComponentRegistrar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:46:46.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MigrateDbCommand.cs",
+              "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Application\\Services\\DbInitService\\MigrateDbCommand.cs",
+              "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Application\\Services\\DbInitService\\MigrateDbCommand.cs",
+              "ToolTip": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Application\\Services\\DbInitService\\MigrateDbCommand.cs",
+              "RelativeToolTip": "Src\\PTMK_testovoe.Application\\Services\\DbInitService\\MigrateDbCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T12:05:17.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "DbIntitRepository.cs",
               "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Infrastructure.DataAccess\\Repositories\\DbIntitRepository.cs",
               "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Infrastructure.DataAccess\\Repositories\\DbIntitRepository.cs",
@@ -176,33 +274,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IDbIntitService.cs",
-              "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Application\\Services\\DbInitService\\IDbIntitService.cs",
-              "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Application\\Services\\DbInitService\\IDbIntitService.cs",
-              "ToolTip": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Application\\Services\\DbInitService\\IDbIntitService.cs",
-              "RelativeToolTip": "Src\\PTMK_testovoe.Application\\Services\\DbInitService\\IDbIntitService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "IDbIntitRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Application\\Services\\DbInitService\\Repository\\IDbIntitRepository.cs",
+              "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Application\\Services\\DbInitService\\Repository\\IDbIntitRepository.cs",
+              "ToolTip": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Application\\Services\\DbInitService\\Repository\\IDbIntitRepository.cs",
+              "RelativeToolTip": "Src\\PTMK_testovoe.Application\\Services\\DbInitService\\Repository\\IDbIntitRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T07:37:52.268Z",
+              "WhenOpened": "2025-11-20T07:40:16.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ComponentRegistgar.cs",
-              "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\ComponentRegistgar.cs",
-              "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\ComponentRegistgar.cs",
-              "ToolTip": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\ComponentRegistgar.cs",
-              "RelativeToolTip": "Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\ComponentRegistgar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T07:46:46.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Infrastructure.DataAccess\\Contexts\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Infrastructure.DataAccess\\Contexts\\AppDbContext.cs",
@@ -215,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Hosts.Console\\appsettings.json",
               "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Hosts.Console\\appsettings.json",
@@ -228,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "UserMapperRegistrar.cs",
               "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\UserMapperRegistrar.cs",
               "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\UserMapperRegistrar.cs",
@@ -241,20 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DbContextRegistrar.cs",
-              "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\DbContextRegistrar.cs",
-              "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\DbContextRegistrar.cs",
-              "ToolTip": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\DbContextRegistrar.cs",
-              "RelativeToolTip": "Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\Registrar\\DbContextRegistrar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T07:47:58.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Domain\\Entities\\Employee.cs",
               "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Domain\\Entities\\Employee.cs",
@@ -267,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Domain\\Base\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Domain\\Base\\BaseEntity.cs",
@@ -280,8 +352,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PTMK_testovoe.Domain",
+              "DocumentIndex": 18,
+              "Title": "PTMK_testovoe.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Domain\\PTMK_testovoe.Domain.csproj",
               "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Domain\\PTMK_testovoe.Domain.csproj",
               "ToolTip": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Domain\\PTMK_testovoe.Domain.csproj",
@@ -293,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Infrastructure.DataAccess\\RepositoryBase\\Repository.cs",
               "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Infrastructure.DataAccess\\RepositoryBase\\Repository.cs",
@@ -306,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Infrastructure.DataAccess\\RepositoryBase\\IRepository.cs",
               "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Infrastructure.DataAccess\\RepositoryBase\\IRepository.cs",
@@ -319,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "BaseUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Infrastructure.DataAccess\\RepositoryBase\\BaseUnitOfWork.cs",
               "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Infrastructure.DataAccess\\RepositoryBase\\BaseUnitOfWork.cs",
@@ -332,21 +404,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "PTMK_testovoe.Infrastructure.ComponentRegistrar",
-              "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\PTMK_testovoe.Infrastructure.ComponentRegistrar.csproj",
-              "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\PTMK_testovoe.Infrastructure.ComponentRegistrar.csproj",
-              "ToolTip": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\PTMK_testovoe.Infrastructure.ComponentRegistrar.csproj",
-              "RelativeToolTip": "Src\\PTMK_testovoe.Infrastructure.ComponentRegistrar\\PTMK_testovoe.Infrastructure.ComponentRegistrar.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-20T07:46:45.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "PTMK_testovoe.Infrastructure.DataAccess",
+              "DocumentIndex": 22,
+              "Title": "PTMK_testovoe.Infrastructure.DataAccess.csproj",
               "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Infrastructure.DataAccess\\PTMK_testovoe.Infrastructure.DataAccess.csproj",
               "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Infrastructure.DataAccess\\PTMK_testovoe.Infrastructure.DataAccess.csproj",
               "ToolTip": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Infrastructure.DataAccess\\PTMK_testovoe.Infrastructure.DataAccess.csproj",
@@ -355,31 +414,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-11-20T07:27:28.421Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "PTMK_testovoe.Application",
-              "DocumentMoniker": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Application\\PTMK_testovoe.Application.csproj",
-              "RelativeDocumentMoniker": "Src\\PTMK_testovoe.Application\\PTMK_testovoe.Application.csproj",
-              "ToolTip": "C:\\Users\\pavli\\Desktop\\PTMK_testovoe\\PTMK_testovoe\\Src\\PTMK_testovoe.Application\\PTMK_testovoe.Application.csproj",
-              "RelativeToolTip": "Src\\PTMK_testovoe.Application\\PTMK_testovoe.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-20T07:52:06.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
             },
             {
               "$type": "Bookmark",
