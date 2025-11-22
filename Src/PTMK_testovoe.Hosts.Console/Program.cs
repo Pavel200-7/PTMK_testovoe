@@ -67,6 +67,11 @@ public static class Program
         GetEmployeeCommand.SetAction(ParseResult => router.GetEmployee());
 
 
+        Command Create100000EmployeeCommand = new("4");
+        rootCommand.Add(Create100000EmployeeCommand);
+        Create100000EmployeeCommand.SetAction(ParseResult => router.Create100000Employee());
+
+
         return rootCommand.Parse(args).Invoke();
     }
 

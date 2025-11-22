@@ -2,6 +2,7 @@
 using MediatR;
 using Microsoft.Extensions.Logging;
 using PTMK_testovoe.Application.Services.DbInit;
+using PTMK_testovoe.Application.Services.Employee.Commands.CreateEmploreeMass;
 using PTMK_testovoe.Application.Services.Employee.Commands.CreateEmployee;
 using PTMK_testovoe.Application.Services.Employee.Queries.GetEmployee;
 using System.Reflection;
@@ -84,4 +85,19 @@ public class Router
 
     }
 
+    public async Task Create100000Employee()
+    {
+        try
+        {
+            bool success = await _mediator.Send(new CreateEmployeeMassCommand());
+            if (success)
+            {
+                System.Console.WriteLine("Добавление 100000 сотрудников прошло успешно");
+            }
+        }
+        catch (Exception ex)
+        {
+            System.Console.WriteLine(ex.Message);
+        }
+    }
 }
