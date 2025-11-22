@@ -5,6 +5,8 @@ using PTMK_testovoe.Application.Services.DbInit;
 using PTMK_testovoe.Application.Services.Employee.Commands.CreateEmploreeMass;
 using PTMK_testovoe.Application.Services.Employee.Commands.CreateEmployee;
 using PTMK_testovoe.Application.Services.Employee.Queries.GetEmployee;
+using PTMK_testovoe.Application.Services.Employee.Queries.GetEmployeeMaleWithStartingLastnameF;
+using System.Diagnostics;
 using System.Reflection;
 
 
@@ -35,7 +37,7 @@ public class Router
         {
             System.Console.WriteLine("Возникли ошибки");
             System.Console.WriteLine(ex.Message);
-        } 
+        }
     }
 
     public async Task CreateEmployee(string fullName, string birthDate, string gender)
@@ -82,7 +84,6 @@ public class Router
         {
             System.Console.WriteLine(ex.Message);
         }
-
     }
 
     public async Task Create100000Employee()
@@ -100,4 +101,33 @@ public class Router
             System.Console.WriteLine(ex.Message);
         }
     }
+
+    public async Task GetEmployeeMaleWithStartingLastnameF()
+    {
+        try
+        {
+            Stopwatch stopWatch = new Stopwatch();
+            stopWatch.Start();
+
+
+
+
+            List<GetEmployeeMaleWithStartingLastnameFResponce> employee = await _mediator.Send(new GetEmployeeMaleWithStartingLastnameFQuery());
+
+            stopWatch.Stop();
+
+
+            foreach (var responce in employee)
+            {
+                System.Console.WriteLine($"ФИО: {responce.FullName}, Дата рождения: {responce.BirthDate}, Пол: {responce.Gender}");
+            }
+
+            System.Console.WriteLine("Время выполнения " + stopWatch.ElapsedMilliseconds + " ms");
+        }
+        catch (Exception ex)
+        {
+            System.Console.WriteLine(ex.Message);
+        }
+    }
+
 }

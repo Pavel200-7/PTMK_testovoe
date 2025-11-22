@@ -30,7 +30,7 @@ public static class Program
         services.RegistrarComponents();
         services.RegistrarAutomapper();
         services.RegistrarMediatR();
-        
+
         services.AddScoped<Router>();
 
         var serviceProvider = services.BuildServiceProvider();
@@ -52,7 +52,7 @@ public static class Program
         Argument<string> fullName = new("fullName") { Arity = ArgumentArity.ExactlyOne };
         Argument<string> birthDate = new("birthDate") { Arity = ArgumentArity.ExactlyOne };
         Argument<string> gender = new("gender") { Arity = ArgumentArity.ExactlyOne };
-        CreateEmployeeCommand.Arguments.Add(fullName) ;
+        CreateEmployeeCommand.Arguments.Add(fullName);
         CreateEmployeeCommand.Arguments.Add(birthDate);
         CreateEmployeeCommand.Arguments.Add(gender);
         rootCommand.Add(CreateEmployeeCommand);
@@ -72,10 +72,11 @@ public static class Program
         Create100000EmployeeCommand.SetAction(ParseResult => router.Create100000Employee());
 
 
+        Command GetEmployeeMaleWithStartingLastnameCommand = new("5");
+        rootCommand.Add(GetEmployeeMaleWithStartingLastnameCommand);
+        GetEmployeeMaleWithStartingLastnameCommand.SetAction(ParseResult => router.GetEmployeeMaleWithStartingLastnameF());
+
+
         return rootCommand.Parse(args).Invoke();
     }
-
-    
 }
-
-
