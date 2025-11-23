@@ -8,6 +8,7 @@ using PTMK_testovoe.Application.Services.Employee.Queries.GetEmployee;
 using PTMK_testovoe.Application.Services.Employee.Queries.GetEmployeeMaleWithStartingLastnameF;
 using System.Diagnostics;
 using System.Reflection;
+using System.Threading;
 
 
 namespace PTMK_testovoe.Hosts.Console;
@@ -16,11 +17,14 @@ public class Router
 {
     private ILogger<Router> _logger;
     private IMediator _mediator;
+    private Stopwatch _stopwatch;
 
-    public Router(ILogger<Router> logger, IMediator mediator)
+
+    public Router(ILogger<Router> logger, IMediator mediator, Stopwatch stopwatch)
     {
         _logger = logger;
         _mediator = mediator;
+        _stopwatch = stopwatch;
     }
 
     public async Task Migrate()
@@ -106,23 +110,19 @@ public class Router
     {
         try
         {
-            Stopwatch stopWatch = new Stopwatch();
-            stopWatch.Start();
-
-
-
-
+            _stopwatch.Start();
             List<GetEmployeeMaleWithStartingLastnameFResponce> employee = await _mediator.Send(new GetEmployeeMaleWithStartingLastnameFQuery());
 
-            stopWatch.Stop();
+            _stopwatch.Stop();
 
+            //foreach (var responce in employee)
+            //{
+            //    System.Console.WriteLine($"ФИО: {responce.FullName}, Дата рождения: {responce.BirthDate}, Пол: {responce.Gender}");
+            //}
 
-            foreach (var responce in employee)
-            {
-                System.Console.WriteLine($"ФИО: {responce.FullName}, Дата рождения: {responce.BirthDate}, Пол: {responce.Gender}");
-            }
+            _logger.LogInformation("Итоговое время выполнения" + _stopwatch.ElapsedMilliseconds + " ms");
 
-            System.Console.WriteLine("Время выполнения " + stopWatch.ElapsedMilliseconds + " ms");
+            //System.Console.WriteLine("Время выполнения (без учета вывода)" + stopWatch.ElapsedMilliseconds + " ms");
         }
         catch (Exception ex)
         {

@@ -3,6 +3,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using PTMK_testovoe.Infrastructure.ComponentRegistrar.Registrar;
 using System.CommandLine;
+using System.Diagnostics;
 using System.IO;
 using System.Reflection;
 
@@ -32,6 +33,8 @@ public static class Program
         services.RegistrarMediatR();
 
         services.AddScoped<Router>();
+        services.AddSingleton<Stopwatch>();
+
 
         var serviceProvider = services.BuildServiceProvider();
 
