@@ -18,13 +18,20 @@ public class Router
     private ILogger<Router> _logger;
     private IMediator _mediator;
     private Stopwatch _stopwatch;
+    private IRequestHandler<GetEmployeeMaleWithStartingLastnameFQuery, List<GetEmployeeMaleWithStartingLastnameFResponce>> _request5Handler;
 
 
-    public Router(ILogger<Router> logger, IMediator mediator, Stopwatch stopwatch)
+    public Router(
+        ILogger<Router> logger, 
+        IMediator mediator, 
+        Stopwatch stopwatch, 
+        IRequestHandler<GetEmployeeMaleWithStartingLastnameFQuery, List<GetEmployeeMaleWithStartingLastnameFResponce>> request5Handler
+        )
     {
         _logger = logger;
         _mediator = mediator;
         _stopwatch = stopwatch;
+        _request5Handler = request5Handler;
     }
 
     public async Task Migrate()
@@ -111,7 +118,8 @@ public class Router
         try
         {
             _stopwatch.Start();
-            List<GetEmployeeMaleWithStartingLastnameFResponce> employee = await _mediator.Send(new GetEmployeeMaleWithStartingLastnameFQuery());
+            CancellationToken cancellationToken = new CancellationToken();
+            List<GetEmployeeMaleWithStartingLastnameFResponce> employee = await _request5Handler.Handle(new GetEmployeeMaleWithStartingLastnameFQuery(), cancellationToken);
 
             _stopwatch.Stop();
 
